@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 319eb3e09fbfcfb4ea8fbf8b25595033
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3725275939792817555
+    second: PC _ Computer - Middens - Denizens - Bet Bird_0
+  - first:
+      213: -7561233034984504120
+    second: PC _ Computer - Middens - Denizens - Bet Bird_1
+  - first:
+      213: 5693782799693937838
+    second: PC _ Computer - Middens - Denizens - Bet Bird_2
+  - first:
+      213: -3338746435801853158
+    second: PC _ Computer - Middens - Denizens - Bet Bird_3
+  - first:
+      213: -3680268775067741292
+    second: PC _ Computer - Middens - Denizens - Bet Bird_4
+  - first:
+      213: 3458260438076379340
+    second: PC _ Computer - Middens - Denizens - Bet Bird_5
+  - first:
+      213: 8377397162763764828
+    second: PC _ Computer - Middens - Denizens - Bet Bird_6
+  - first:
+      213: -4703553477457076902
+    second: PC _ Computer - Middens - Denizens - Bet Bird_7
+  - first:
+      213: 3445394445803404194
+    second: PC _ Computer - Middens - Denizens - Bet Bird_8
+  - first:
+      213: 6876677739195965798
+    second: PC _ Computer - Middens - Denizens - Bet Bird_9
+  - first:
+      213: 4994338507353565401
+    second: PC _ Computer - Middens - Denizens - Bet Bird_10
+  - first:
+      213: 4297028239822298754
+    second: PC _ Computer - Middens - Denizens - Bet Bird_11
+  - first:
+      213: 4043887186438052770
+    second: PC _ Computer - Middens - Denizens - Bet Bird_12
+  - first:
+      213: -1563636068238162052
+    second: PC _ Computer - Middens - Denizens - Bet Bird_13
+  - first:
+      213: 788566143951305378
+    second: PC _ Computer - Middens - Denizens - Bet Bird_14
+  - first:
+      213: -8070313496261469675
+    second: PC _ Computer - Middens - Denizens - Bet Bird_15
+  - first:
+      213: -927277395376094251
+    second: PC _ Computer - Middens - Denizens - Bet Bird_16
+  - first:
+      213: -3912983699105090355
+    second: PC _ Computer - Middens - Denizens - Bet Bird_17
+  - first:
+      213: 2922026612492331106
+    second: PC _ Computer - Middens - Denizens - Bet Bird_18
+  - first:
+      213: 3094984047294982801
+    second: PC _ Computer - Middens - Denizens - Bet Bird_19
+  - first:
+      213: 6309613083283060495
+    second: PC _ Computer - Middens - Denizens - Bet Bird_20
+  - first:
+      213: 3261924016754286021
+    second: PC _ Computer - Middens - Denizens - Bet Bird_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 443
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f65625492d4cc0800000000000000
+      internalID: -3725275939792817555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 384
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4ccc5ad9a111790800000000000000
+      internalID: -7561233034984504120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 380
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7cf31a41640f40800000000000000
+      internalID: 5693782799693937838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 378
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ddea5ec36aa1d0800000000000000
+      internalID: -3338746435801853158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 383
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49310284c0f0decc0800000000000000
+      internalID: -3680268775067741292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 270
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05458bb853eff20800000000000000
+      internalID: 3458260438076379340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 265
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5446ec855e724470800000000000000
+      internalID: 8377397162763764828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 267
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1e12680f99beb0800000000000000
+      internalID: -4703553477457076902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 271
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab37357eff70df20800000000000000
+      internalID: 3445394445803404194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 168
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ac9738fdde6f50800000000000000
+      internalID: 6876677739195965798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 164
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d82dda49647f4540800000000000000
+      internalID: 4994338507353565401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 162
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1e60ea6c12ab30800000000000000
+      internalID: 4297028239822298754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 167
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abd46b78f5ce1830800000000000000
+      internalID: 4043887186438052770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 54
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770daac749dc4ae0800000000000000
+      internalID: -1563636068238162052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafd1cdabc81fa00800000000000000
+      internalID: 788566143951305378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 51
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5b4d22ac700090800000000000000
+      internalID: -8070313496261469675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3cb503f16a123f0800000000000000
+      internalID: -927277395376094251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc472fabe0a42b9c0800000000000000
+      internalID: -3912983699105090355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e7d5f8bf1d8820800000000000000
+      internalID: 2922026612492331106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 173
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa484d79793fa20800000000000000
+      internalID: 3094984047294982801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f077e336baf309750800000000000000
+      internalID: 6309613083283060495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Middens - Denizens - Bet Bird_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd54fe5c9ea44d20800000000000000
+      internalID: 3261924016754286021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Middens - Denizens - Bet Bird_0: -3725275939792817555
+      PC _ Computer - Middens - Denizens - Bet Bird_1: -7561233034984504120
+      PC _ Computer - Middens - Denizens - Bet Bird_10: 4994338507353565401
+      PC _ Computer - Middens - Denizens - Bet Bird_11: 4297028239822298754
+      PC _ Computer - Middens - Denizens - Bet Bird_12: 4043887186438052770
+      PC _ Computer - Middens - Denizens - Bet Bird_13: -1563636068238162052
+      PC _ Computer - Middens - Denizens - Bet Bird_14: 788566143951305378
+      PC _ Computer - Middens - Denizens - Bet Bird_15: -8070313496261469675
+      PC _ Computer - Middens - Denizens - Bet Bird_16: -927277395376094251
+      PC _ Computer - Middens - Denizens - Bet Bird_17: -3912983699105090355
+      PC _ Computer - Middens - Denizens - Bet Bird_18: 2922026612492331106
+      PC _ Computer - Middens - Denizens - Bet Bird_19: 3094984047294982801
+      PC _ Computer - Middens - Denizens - Bet Bird_2: 5693782799693937838
+      PC _ Computer - Middens - Denizens - Bet Bird_20: 6309613083283060495
+      PC _ Computer - Middens - Denizens - Bet Bird_21: 3261924016754286021
+      PC _ Computer - Middens - Denizens - Bet Bird_3: -3338746435801853158
+      PC _ Computer - Middens - Denizens - Bet Bird_4: -3680268775067741292
+      PC _ Computer - Middens - Denizens - Bet Bird_5: 3458260438076379340
+      PC _ Computer - Middens - Denizens - Bet Bird_6: 8377397162763764828
+      PC _ Computer - Middens - Denizens - Bet Bird_7: -4703553477457076902
+      PC _ Computer - Middens - Denizens - Bet Bird_8: 3445394445803404194
+      PC _ Computer - Middens - Denizens - Bet Bird_9: 6876677739195965798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
