@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2113699964795592736}
   - component: {fileID: 7730359595069231605}
   - component: {fileID: 1199675365344738652}
+  - component: {fileID: -4446806205427464360}
   m_Layer: 0
   m_Name: heart _0
   m_TagString: Coin
@@ -162,3 +163,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 4
+--- !u!114 &-4446806205427464360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5709582175602113057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d18c0f22879164696af664660c541c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

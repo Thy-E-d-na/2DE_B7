@@ -10,13 +10,28 @@ public class PlayerMove : MonoBehaviour
     bool isGrounded;
     [SerializeField] private Animator _anim;
 
+    [SerializeField] private GameObject _gOverPnl;
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
         if (collision.gameObject.CompareTag("Ground"))
+        {
             isGrounded = true;
-        _anim.SetBool("IsJump", false);
-       
+            _anim.SetBool("IsJump", false);
+        }
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Time.timeScale = 0f;
+            _gOverPnl.SetActive(true);
+        }
+
     }
     private void Update()
     {

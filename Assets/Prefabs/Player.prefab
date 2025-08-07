@@ -128,8 +128,9 @@ MonoBehaviour:
   _jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   _move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   _rg: {fileID: 6743095494978278391}
-  _jumpForce: 4
+  _jumpForce: 8
   _anim: {fileID: 6856400412154675082}
+  _gOverPnl: {fileID: 0}
 --- !u!50 &6743095494978278391
 Rigidbody2D:
   serializedVersion: 5
